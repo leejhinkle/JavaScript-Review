@@ -7,3 +7,6 @@ JavaScript-Review
 4. closureReview.js
 5. constructorReview.js
 6. toy-problems.js
+
+
+Code offered by DevMountain to review javascript skills.  I registered for DevMountain, but have not gone through the coursework yet.
